@@ -1,0 +1,10 @@
+{
+	"Personal_Information":{
+		"Name": "Your Name",
+		"Email_address": "email@example.com"
+	},
+	"Path":{
+		"Historical_data": "Path",
+		"Prediction_path": "Path"
+	}
+}
